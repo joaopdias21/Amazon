@@ -28,6 +28,7 @@ Clicando em "Scaffold example specs" deve aparecer a seguinte tela ![image](http
 Após isso na sua IDE, deve aparecer outra pasta chamada cypress, dessa forma ![image](https://github.com/user-attachments/assets/4917a265-3e6e-4efe-adfa-6a0325ce0a57)
  . Após aparecer a pasta, basta mover os arquivos de teste para este caminho cypress\e2e\1-getting-started. Após os arquivos movidos voce ja o enxerga na tela do cypress para rodar os testes.
 
+OBS:::: Não é recomendado mover a pasta para a pasta 1-getting-started,somente os arquivos dentro da pasta para os testes rodarem
 
 Além disso, você pode acessar o vídeo através do drive mostrando o passo a passo: https://drive.google.com/file/d/1BTR0DEuzf-aw5LRQ-cNbJeo1tiubU3ur/view?usp=sharing
 
